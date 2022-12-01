@@ -1,11 +1,12 @@
 
 body {
-  background-image:url('./imagees/body.png');
+  background-image: url('./imagees/body.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
 }
+
 .main {
   background-image: url('./imagees/mobile.png');
   background-position: center;
