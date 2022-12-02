@@ -7,8 +7,8 @@ body {
 }
 
 header {
-  padding-top:2rem;
-  margin-bottom:5rem;
+  padding-top: 2rem;
+  margin-bottom: 5rem;
   display: flex;
   justify-content: space-between;
 }
@@ -81,8 +81,8 @@ li {
 }
 
 .social-media > a > li > img {
-  height:20px;
-  font-size:2px;
+  height: 20px;
+  font-size: 2px;
   margin-right: 20px;
 }
 
