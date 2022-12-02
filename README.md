@@ -15,8 +15,14 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-- [👥 Authors](#authors)
+- [📖 About the Project](#about-project)<br>
+🛠 Built With<br>
+-Tech Stack<br>
+-Key Features<br>
+💻 Getting Started<br>
+-Setup<br>
+-Prerequisites<br>
+- [👥 Authors](#authors)<br>
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -31,22 +37,39 @@ it includes :  <br>
 -my name  <br>
 -Programming languages that I know  <br>
 -My social media perofiles and links  <br>
+🛠 Built With<br>
+**Key Features**<br>
+simple portfolio project, built with html5 and css3 including linter configurattion.<br>
 
+[Set up linters]<br>
+[Add navigation bar for mobile version]<br>
+[Add intro header section for mobile version]<br>
+**Tech Stack**<br>
+This portfolio project, was built with html5 and css3.
 
-<!-- Features -->
+Client<br>
+**.HTML**
+**.CSS**
 
-### Key Features <a name="key-features"></a>
+💻 Getting Started<br>
+To get a local copy up and running, follow these steps.<br>
 
--Features: <br> flexboxes  <br>
--HTML  <br>
--CSS  <br>
--linters  <br>
+Prerequisites<br>
+In order to run this project you need:<br>
 
+Any IDE or text editor that supports HTML and CSS
+Git installed<br>
+Setup<br>
+Clone this repository to your desired folder:<br>
+
+1. Clone this repository or download the Zip folder:"<br>
+$ git clone <https://github.com/ismailmunyentwari9/My-portfolio)><br>
+2. Navigate to the location of the folder in your machine:<br>
+(https://github.com/ismailmunyentwari9/My-portfolio)<br>
+**3. Press Enter to navigate to your local clone.**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
+## 👥 Author<a name="authors"></a>
 
 
 👤 *Ismail Munyentwari*
