@@ -4,29 +4,26 @@ body {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
-}
-
-.main {
-  background-image: url('./imagees/mobile.png');
-  background-position: center;
-  background-size: cover;
-  height: 100vh;
 }
 
 header {
-  margin-top: 2rem;
+  padding-top: 2rem;
+  margin-bottom: 5rem;
   display: flex;
   justify-content: space-between;
 }
 
-.sp1 {
-  color: blue;
-  font-size: 45px;
+a > .sp1 {
+  width: 76px;
+  height: 20px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 20px;
+  color: #6070ff;
 }
 
 .sp2 img {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .paragraph {
@@ -50,19 +47,21 @@ header {
 }
 
 .text2 {
+  margin-top: -2rem;
+  width: 327px;
+  height: 146px;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  flex: none;
-  flex-grow: 0;
+  color: #344563;
 }
 
-a {
+.a {
   display: flex;
   align-self: initial;
   font-weight: 500;
-  font-size: 25px;
+  font-size: 16px;
   text-decoration: none;
   line-height: 24px;
   color: #7f8cff;
@@ -81,7 +80,12 @@ li {
   list-style-type: none;
 }
 
-.social-media > li img {
-  height: 30px;
+.social-media > a > li > img {
+  height: 20px;
+  font-size: 2px;
   margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
 }
