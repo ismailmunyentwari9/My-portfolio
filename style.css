@@ -7,26 +7,23 @@ body {
   height: 100vh;
 }
 
-.main {
-  background-image: url('./imagees/mobile.png');
-  background-position: center;
-  background-size: cover;
-  height: 100vh;
-}
-
 header {
   margin-top: 2rem;
   display: flex;
   justify-content: space-between;
 }
 
-.sp1 {
-  color: blue;
-  font-size: 45px;
+a>.sp1 {
+width: 76px;
+height: 20px;
+font-weight: 700;
+font-size:30px;
+line-height: 20px;
+color: #6070FF;
 }
 
 .sp2 img {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .paragraph {
@@ -50,15 +47,16 @@ header {
 }
 
 .text2 {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  flex: none;
-  flex-grow: 0;
+margin-top:-2rem; 
+width: 327px;
+height: 146px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #344563;
 }
-
-a {
+.a{
   display: flex;
   align-self: initial;
   font-weight: 500;
@@ -81,7 +79,10 @@ li {
   list-style-type: none;
 }
 
-.social-media > li img {
+.social-media > a >li> img {
   height: 30px;
   margin-right: 20px;
+}
+a{
+  text-decoration:none;
 }
