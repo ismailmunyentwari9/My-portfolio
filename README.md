@@ -15,14 +15,14 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-🛠 Built With
--Tech Stack
--Key Features
-💻 Getting Started
--Setup
--Prerequisites
-- [👥 Authors](#authors)
+- [📖 About the Project](#about-project)<br>
+🛠 Built With<br>
+-Tech Stack<br>
+-Key Features<br>
+💻 Getting Started<br>
+-Setup<br>
+-Prerequisites<br>
+- [👥 Authors](#authors)<br>
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
